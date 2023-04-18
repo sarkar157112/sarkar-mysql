@@ -4,5 +4,5 @@ The script script checks if the specified database exists before attempting to c
 
 To run the script, provide the MySQL root password as an argument:
 
-./create_mysql_db.sh <mysql_root_password>
+./mysql_script.sh <mysql_root_password>
 
